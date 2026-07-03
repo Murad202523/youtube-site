@@ -1,29 +1,31 @@
-
----
-
-## ▶️ YouTube Site (React + Tailwind)
-
-```markdown id="r3"
 # ▶️ YouTube Site
 
 ## 📌 Description
-A YouTube UI clone built using React and Tailwind CSS.  
-The project simulates video platform interface with reusable components.
+A simple video platform UI clone built using HTML, CSS, and JavaScript.  
+The project simulates a YouTube-like interface with video grid and layout.
 
 ## 🚀 Features
 - Video grid layout  
-- Sidebar navigation  
-- Search functionality UI  
-- Responsive design  
+- Header and sidebar UI  
+- Search bar design  
+- Responsive layout  
 
 ## 🛠 Tech Stack
-- React  
-- JavaScript (ES6+)  
-- Tailwind CSS  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
 
 ## ▶️ How to Run
-1. Clone the repository  
-2. Run:
-```bash
-npm install  
-npm run dev
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
+
+## 📷 Screenshots
+(Add images if available)
+
+## 🎯 Future Improvements
+- Add backend (Java / Spring Boot)  
+- Add video player functionality  
+- Improve UI/UX interactions  
+
+## 📫 Contact
+GitHub: https://github.com/Murad202523
